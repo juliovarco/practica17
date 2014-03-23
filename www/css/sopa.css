@@ -1,0 +1,22 @@
+.centrarimagen{
+	position: absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	margin: auto;
+	height: 40px;
+}
+.background{
+	background-color: #FFFFFF;
+	color: #F4F4F4;
+}
+.centrar{
+	position: absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	margin: auto;
+	height:300px;
+}
